@@ -17,15 +17,15 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Primary and Secondary School
-textline: |
-  Belkirk College of Engineering
+textline: |-
+  Royal English School
 
-  Ora et Labora
+  Leading private english medium school in Matale
 hero_button:
   text: Learn more
   href: "/about"
 show_news: true
-show_staff: false
+show_staff: true
 menu:
   navigation:
     identifier: _index
