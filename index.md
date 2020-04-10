@@ -5,18 +5,21 @@ layout: landing-page
 heading: Royal English School
 partners: []
 services:
-- heading: Elocution Classes
+- description: ''
+  icon: ''
+  heading: 'Pre-school and Kindergarten '
+- heading: Primary School
   description: ''
   icon: ''
 - heading: Secondary School
   description: ''
   icon: ''
-- heading: Primary School
+- heading: Elocution Classes
   description: ''
   icon: ''
-- description: ''
+- heading: Computer Studies
+  description: ''
   icon: ''
-  heading: 'Pre-school and Kindergarten '
 sub_heading: Royal English School is the leading private english medium school in
   Matale
 textline: Royal English School, Matale was founded in 1997 with the vision of creating
