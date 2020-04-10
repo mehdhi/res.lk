@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/files/2020/04/10/banner_image.jpg"
+banner_image: "/img/banner.png"
 layout: landing-page
 heading: Royal English School
 partners: []
