@@ -1,23 +1,22 @@
 ---
 title: About
-date: 2017-11-01 03:00:00 +0000
+date: '2017-11-01T03:00:00.000+00:00'
 banner_image: "/uploads/2018/02/17/college-building.jpg"
-heading: About Belkirk
-sub_heading: Ora et Labora
+heading: About Royal English School
+sub_heading: Knowledge is Power
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
-publish_date: 2017-12-01 04:00:00 +0000
+textline: Leading private english medium school in Matale
+publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 menu:
-  navigation:
-    identifier: _about
-    weight: 2
   footer:
     identifier: _about
     weight: 3
+  navigation:
+    identifier: _about
+    weight: 2
+
 ---
+**Royal English School, Matale was founded in 1997 with the vision of creating an ideal society of English educated men and women, not only of high intellectual and academic attainments but more importantly virtuous individuals with character and correct sense of values.**
 
-The Belkirk College of Engineering (Belkirk) specializes in innovative research to support the healthcare and biotech industries. We are interested in advancing research in areas that are pressing and relevant to the health and biotech industries and regularly develop new projects and collaborations to accomplish this goal. We are currently engaged in a variety of ongoing projects within the areas of mental health, data analysis, knowledge translation, and cluster research.
-
-Students at Belkirk get to learn from leaders in the biotech industy, as well as get access to cutting edge projects and technologies to further their learning endeavours.
+**Our absolute mission is to contribute to build up the future generation of our motherland. We are proud to claim that Royal English School has produced hundreds of well-informed personalities who have risen to commendable levels nationally and internationally.**
