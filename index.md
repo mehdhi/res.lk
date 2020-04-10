@@ -1,18 +1,16 @@
 ---
-title: Royal English School - Home
+title: Home
 banner_image: "/files/2020/04/10/51779316_2204477232920696_2003320098592391168_n.jpg"
 layout: landing-page
 heading: Royal English School
 partners: []
 services: []
-sub_heading: Royal English School, Matale was founded in 1997 with the vision of creating
+sub_heading: Royal English School is the leading private english medium school in
+  Matale
+textline: Royal English School, Matale was founded in 1997 with the vision of creating
   an ideal society of English educated men and women, not only of high intellectual
   and academic attainments but more importantly virtuous individuals with character
   and correct sense of values.
-textline: |-
-  Royal English School
-
-  Leading private english medium school in Matale
 hero_button:
   text: Learn more
   href: "/about"
