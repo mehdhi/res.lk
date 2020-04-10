@@ -5,6 +5,9 @@ layout: landing-page
 heading: Royal English School
 partners: []
 services:
+- heading: Secondary School
+  description: ''
+  icon: ''
 - heading: Primary School
   description: ''
   icon: ''
