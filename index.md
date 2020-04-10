@@ -5,9 +5,6 @@ layout: landing-page
 heading: Royal English School
 partners: []
 services:
-- heading: Library
-  description: ''
-  icon: ''
 - description: ''
   icon: ''
   heading: 'Pre-school and Kindergarten '
@@ -21,6 +18,12 @@ services:
   description: ''
   icon: ''
 - heading: Computer Studies
+  description: ''
+  icon: ''
+- heading: Library
+  description: ''
+  icon: ''
+- heading: Science Lab
   description: ''
   icon: ''
 sub_heading: Royal English School is the leading private english medium school in
