@@ -26,6 +26,9 @@ services:
 - heading: Science Lab
   description: ''
   icon: ''
+- heading: Extra-curricular Activities
+  description: ''
+  icon: ''
 sub_heading: Royal English School is the leading private english medium school in
   Matale
 textline: Royal English School, Matale was founded in 1997 with the vision of creating
