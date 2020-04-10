@@ -16,7 +16,10 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Primary and Secondary School
+sub_heading: Royal English School, Matale was founded in 1997 with the vision of creating
+  an ideal society of English educated men and women, not only of high intellectual
+  and academic attainments but more importantly virtuous individuals with character
+  and correct sense of values.
 textline: |-
   Royal English School
 
