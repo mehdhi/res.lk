@@ -5,6 +5,9 @@ layout: landing-page
 heading: Royal English School
 partners: []
 services:
+- heading: Library
+  description: ''
+  icon: ''
 - description: ''
   icon: ''
   heading: 'Pre-school and Kindergarten '
