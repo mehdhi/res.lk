@@ -4,7 +4,10 @@ banner_image: "/files/2020/04/10/51779316_2204477232920696_2003320098592391168_n
 layout: landing-page
 heading: Royal English School
 partners: []
-services: []
+services:
+- description: ''
+  icon: ''
+  heading: 'Pre-school and Kindergarten '
 sub_heading: Royal English School is the leading private english medium school in
   Matale
 textline: Royal English School, Matale was founded in 1997 with the vision of creating
