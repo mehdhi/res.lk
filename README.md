@@ -1,6 +1,6 @@
-# Forestry Jekyll demo
+# Royal English School - res.lk Website [![Netlify Status](https://api.netlify.com/api/v1/badges/110b12e8-254c-4ec4-a9a3-ef74b3c18eca/deploy-status)](https://app.netlify.com/sites/resm/deploys)
 
-A Jekyll demo site for [Forestry CMS](https://forestry.io).
+A Jekyll based Website
 
 ## Import to Forestry
 
