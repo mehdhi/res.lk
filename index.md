@@ -14,19 +14,22 @@ services:
 - heading: Secondary School
   description: ''
   icon: ''
-- heading: Elocution Classes
+- heading: Higher National Diploma
   description: ''
   icon: ''
 - heading: Computer Studies
   description: ''
   icon: ''
-- heading: Library
-  description: ''
-  icon: ''
 - heading: Science Lab
   description: ''
   icon: ''
-- heading: Extra-curricular Activities
+- heading: Library
+  description: ''
+  icon: ''
+- heading: Abacus Classes
+  description: ''
+  icon: ''
+- heading: Elocution Classes
   description: ''
   icon: ''
 sub_heading: Royal English School is the leading private english medium school in
